@@ -1,20 +1,9 @@
-#include "main.h" 
-/** 
- * _isupper - evalue if letter is uppercase . 
- *@c: print int 
- * Return: Always 0. 
- */ 
- 
-int _isupper(int c) 
-{ 
-if (c >= 'A' && c <= 'Z') 
-{ 
-return (1); 
-} 
- 
-else 
-{ 
-return (0); 
-} 
- 
-}
+#ifndef MAIN_H
+#define MAIN_H
+
+#endif [A[D[D[D[D[D[D[D[Dint _isupper(int c);[A[D[D[D[D[D[D
+
+[Ain
+[A[[C[C[C[C[C[C[C[C[C[C[C[C[Cint _putchar(char c);
+int _isupper(int c);
+#endif
